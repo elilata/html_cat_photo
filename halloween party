@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Halloween Party</title>
+    <style>
+        h1 {
+         text-align: center;
+        }
+            </style>
+  </head>
+  <body>
+    <main>
+      <h1>Club Baune</h1>
+      <p>Friday 1st November</p>
+    </main>
+  </body>
+</html>
