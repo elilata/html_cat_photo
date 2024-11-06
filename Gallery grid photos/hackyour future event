@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Backpack Travel</title>
+  </head>
+  <body>
+    <div class="main">
+     
+          <nav>
+        <div class="logo">Colorful Mexico and Vulkan Hike in Guatemala</div>
+        <ul>
+          <li><a href="#">HOME</a></li>
+          
+          <li><a href="#">TRIPS</a></li>
+          <div class="img gallery">
+    <img src="images/image1">
+    <img src="images/image2">
+    <img src="images/image3">
+    <img src="inages/image4">
+    <img src="images/image5">
+    <img src="images/image6">
+    <img src="images/image7">
+
+</div>
+          <li><a href="#">CONTACT</a></li>
+        </ul>
+      </nav>
+      <div class="content">
+        <h1>M<span>exico</span> & <span>Guatemala</span></h1>
+        <p>
+          There are fascinating places to be and friendly people to
+          see.
+        </p>
+        <div class="promo">Let us backpack travel an entire month for<strong>  28000kr. </strong></div>
+      </div>
+    </div>
+  </body>
+</html>
