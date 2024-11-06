@@ -3,16 +3,33 @@
   <head>
     <meta charset="utf-8" />
     <title>Halloween Party</title>
-    <style>
-        h1 {
-         text-align: center;
-        }
-            </style>
   </head>
   <body>
+    
+ <div class="image">
+      <img src="https://i.postimg.cc/85Vhz1RC/a39b7bcf-6a0d-4635-8792-319ffa6250f0.jpg">
+    </div>
+
     <main>
-      <h1>Club Baune</h1>
-      <p>Friday 1st November</p>
+      <h1>Let's BOOHOgie</h1>
+ 
+      <p class="estanlished">Join us for Halloween party!</p>
+ 
+      <section>
+        <h2>Costumes & Cocktails!</h2>
+        <div class="cocktails"><img src="https://i.postimg.cc/htY5t7Z1/easy-orange-halloween-cocktail.webp"></div>
+     
+</div>
+             <article class="details">
+                        <p class="time">Come at 6pm in your most scarry costume and shoes to dance all night!</p>
+          </article>   
+      </section>
     </main>
-  </body>
+    <footer>
+  <div class="google-map">
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2245.3323291616207!2d12.49129567686106!3d55.75272897308418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46524e193741c355%3A0xecd4986c4c3785ee!2sEsberns%20Alle%206A%2C%202860%20S%C3%B8borg!5e0!3m2!1sen!2sdk!4v1730652444122!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+      </footer>
+             </body>
+
 </html>
